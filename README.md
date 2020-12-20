@@ -1,2 +1,2 @@
 # git_atolye_ieee
-ieee ozu git atölye deneme reposu.
+20 Aralık'tan dünyaya merhaba. COVID-19 hala dünyanın her yerinde.
